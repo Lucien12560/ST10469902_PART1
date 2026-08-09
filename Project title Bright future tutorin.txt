@@ -24,3 +24,12 @@ References:
  HostAfrica. 2025. We hosting services. https://www.hostafrica.co.za/
  Google Domains. 2025. Domain registration. https://domains.google/
  MDN Web Docs.2025. Learn web development. https://developer.mozilla.org/
+
+The website pages are
+- Index.hmtl is the homepage 
+- About-us.hmtl is the About us page 
+- Contact-us.html is the pages where people are able to contact us 
+-Textbooks.hmtl where we sell textbooks
+-Servcies offered.html is the pages showing the services we offer
+
+
