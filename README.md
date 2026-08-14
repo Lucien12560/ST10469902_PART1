@@ -1,4 +1,4 @@
-# Bright future Tutoring Centre_PART1
+# Bright future Tutoring Centre_WEDPART1
 <h1>This website is about tutoring</h1>
 <li>Student Information:</li>
 <li>Rosebank international</li>
