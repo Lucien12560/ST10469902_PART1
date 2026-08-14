@@ -61,17 +61,17 @@ This organisation is suitable because it requires and visually appealing website
 Bright future Tutoring Centre does not currently have an official website. Instead, the business relies on social media and WhatsApp to communicate with students and parents. While these platforms are useful, they make it difficult to organise information and accept registration.
 
 <h2>Propose Website features and Functionality</h2>  
-* <li>Homepage</li> 
-* <li>About us Page</li>  
-* <li>Registration page</li>  
-* <li>Contact page</li>
-* <li>Subject and services page</li> (Admin, 2026) 
+ <li>Homepage</li> 
+ <li>About us Page</li>  
+ <li>Registration page</li>  
+ <li>Contact page</li>
+ <li>Subject and services page</li> (Admin, 2026) 
 
  <h2>Functionality</h2>  
-* <li>Responsive design for desktop, tablet and mobile devices </li> 
-* <li>Easy navigation menu </li> 
-* <li>Online registration form </li> 
-* <li>Contact form with email integration</li>  
+ <li>Responsive design for desktop, tablet and mobile devices </li> 
+ <li>Easy navigation menu </li> 
+ <li>Online registration form </li> 
+ <li>Contact form with email integration</li>  
 
 <h1>ChangeLog</h1>11 August 2026
 
