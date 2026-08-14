@@ -1,8 +1,9 @@
 # ST10469902_PART1
 <h1>This website is about tutoring</h1>
-Student Information: ST10469902
-                     Rosebank international
-                     2nd year
+Student Information:
+ST10469902
+Rosebank international
+2nd year
  
 Project overview: Completed Task 1 on Word and On Visual Studio Code 
 
