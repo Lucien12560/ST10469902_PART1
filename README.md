@@ -67,6 +67,37 @@ Body text: Aptos
 
 <li>Accessible contact information</li>
 
+
+Website design and development  
+
+6,500 
+
+Web hosting  
+
+250 
+
+Domain name  
+
+1200 
+
+Images and graphics  
+
+500 
+
+Website testing  
+
+600 
+
+Maintenance  
+
+2000 
+
+Total budget  
+
+11,050 
+
+
+
 <h1>Sitemap</h1>:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a16cd020-ecb9-41f2-b355-247849771773" />
 
