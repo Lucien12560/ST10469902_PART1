@@ -68,33 +68,94 @@ Body text: Aptos
 <li>Accessible contact information</li>
 
 
-Website design and development  
+<h1>Website design and development</h1> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Budget</title>
 
-6,500 
+    <style>
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            margin: 20px auto;
+            font-family: Arial, sans-serif;
+        }
 
-Web hosting  
+        th, td {
+            border: 1px solid #333;
+            padding: 12px;
+            text-align: left;
+        }
 
-250 
+        th {
+            background-color: #f2f2f2;
+        }
 
-Domain name  
+        td:last-child,
+        th:last-child {
+            text-align: right;
+        }
 
-1200 
+        .total {
+            font-weight: bold;
+            background-color: #e6f2ff;
+        }
+    </style>
+</head>
 
-Images and graphics  
+<body>
 
-500 
+    <h2 style="text-align: center;">Website Development Budget</h2>
 
-Website testing  
+    <table>
+        <tr>
+            <th>Description</th>
+            <th>Cost</th>
+        </tr>
 
-600 
+        <tr>
+            <td>Website design and development</td>
+            <td>6,500</td>
+        </tr>
 
-Maintenance  
+        <tr>
+            <td>Web hosting</td>
+            <td>250</td>
+        </tr>
 
-2000 
+        <tr>
+            <td>Domain name</td>
+            <td>1,200</td>
+        </tr>
 
-Total budget  
+        <tr>
+            <td>Images and graphics</td>
+            <td>500</td>
+        </tr>
 
-11,050 
+        <tr>
+            <td>Website testing</td>
+            <td>600</td>
+        </tr>
+
+        <tr>
+            <td>Maintenance</td>
+            <td>2,000</td>
+        </tr>
+
+        <tr class="total">
+            <td>Total Budget</td>
+            <td>11,050</td>
+        </tr>
+    </table>
+
+</body>
+</html>
+
+
 
 
 
