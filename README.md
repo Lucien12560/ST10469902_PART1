@@ -26,7 +26,7 @@ Key features and functionalities:
 <li>Week-6	Fix errors, make improvements and prepare documentation Final website ready for submission</li> 
 
 3.<h1>Objectives</h1>  
-The website aims to: 
+<br>The website aims to</br>: 
 
 Promote tutoring services offered  
 
