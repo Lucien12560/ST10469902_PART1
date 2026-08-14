@@ -60,9 +60,9 @@ Admin. (2026, August 10). Web Design South Africa (2026): Website design company
 
 
 <h1>The website pages are</h1>
-- Index.hmtl is the homepage 
-- About-us.hmtl is the About us page 
-- Contact-us.html is the pages where people are able to contact us 
--Textbooks.hmtl where we sell textbooks
--Servcies offered.html is the pages showing the services we offer
-- SITEMAP is added onto the whole page.
+ <li>>Index.hmtl is the homepage</li> 
+ <li>About-us.hmtl is the About us page</li> 
+ <li>Contact-us.html is the pages where people are able to contact us </li>
+<li>Textbooks.hmtl where we sell textbooks</li>
+<li>Servcies offered.html is the pages showing the services we offer</li>
+<li>SITEMAP is added onto the whole page.</li>
