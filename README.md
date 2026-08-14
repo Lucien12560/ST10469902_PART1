@@ -7,7 +7,7 @@ Rosebank international
  
 Project overview: Completed Task 1 on Word and On Visual Studio Code 
 
-<h1>Description</h1>h1>:
+<h1>Description</h1>:
 
 Bright future Tutoring Centre is a small educational business that provides extra lessons and the academic support a student needs for Mathematics, Physical science, English and life science. The centre offers both in-person and online tutoring services, helping students improve their academic performance and prepare for exams as well.  
 
