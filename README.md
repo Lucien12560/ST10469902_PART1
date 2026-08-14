@@ -33,6 +33,40 @@ Display subjects, tutors, timetables and pricing
 Provide location map  
 Create a professional and trustworthy image  
 
+5. <h1>Design and User Experience</h1> 
+<b>Colour scheme</b>  
+<li>Blue (trustworthy and professional)</li> 
+ <li>White (clean appearance) </li>
+ <li>Yellow (energy and motivation), (Brown, 2026)</li> 
+
+<b>Typography</b> 
+headings: Bold  
+Body text: Aptos  
+
+ 
+
+<h1>Layout and Design</h1>  
+
+<li>Clean and modern interface</li>  
+
+<li>Consistent colour palette </li>
+
+<li>Large images with clear call-to- action buttons </li> 
+
+<li>Simple navigation menu</li>  
+
+<h1>User Experience</h1> 
+
+<li>Fast loading pages</li>  
+
+<li>Mobile friendly design</li> 
+
+<li>Easy to read content</li>  
+
+<li>Simple navigation between pages</li>  
+
+<li>Accessible contact information</li>
+
 <h1>Sitemap</h1>:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a16cd020-ecb9-41f2-b355-247849771773" />
 
