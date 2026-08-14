@@ -7,14 +7,15 @@ Rosebank international
  
 Project overview: Completed Task 1 on Word and On Visual Studio Code 
 
-<h1>Description</h1>h1>: 
+<h1>Description</h1>h1>:
+
 Bright future Tutoring Centre is a small educational business that provides extra lessons and the academic support a student needs for Mathematics, Physical science, English and life science. The centre offers both in-person and online tutoring services, helping students improve their academic performance and prepare for exams as well.  
 
 Website goals and Objectives: The goal of the website is to hopefully generate new customers and widen the reach for international high school kids struggling with academics and help them improve. The objectives are improve as much academics as we can with the help by both the parents and students.
 
 Key features and functionalities: 
 
-TimeLine and Milestones:   
+<h1>TimeLine and Milestones</h1>:   
 Week-1 	Gather business requirements and conduct research Requirements approved 
 Week-2 	Create website sitemap and wireframes Design approved 
 Week-3	Develop the home, about, and services page Core pages completed 
@@ -50,7 +51,10 @@ Find centre location and contact details
 2. <h2>Project Goal</h2>
 The goal is to create a modern user friendly and responsive website that promotes the tutoring centres services and makes it easier for the user to navigate and enable potential clients to register and contact the business online  
 
-This organisation is suitable because it requires and visually appealing website to attract new students and provides essential information to parents and learners  <h2
+<h2>This organisation is suitable because it requires and visually appealing website to attract new students and provides essential information to parents and learners</h2>
+
+<h1>ChangeLog</h1>
+11 August 2026
 
 References:
  HostAfrica. 2025. We hosting services. https://www.hostafrica.co.za/
