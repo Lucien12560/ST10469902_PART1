@@ -1,7 +1,7 @@
 # Bright future Tutoring Centre_WEDPART1
 <h1>This website is about tutoring</h1>
 <li>Student Information:</li>
-<li>Rosebank international</li>
+<li>Institution: Rosebank international</li>
 <li>2nd year</li>
 <li>Lucien Anthony Beru</li>
 <li>Diploma in Information Technology Management</li>
