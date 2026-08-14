@@ -26,16 +26,11 @@ Key features and functionalities:
 <li>Week-6	Fix errors, make improvements and prepare documentation Final website ready for submission</li> 
 
 3.<h1>Objectives</h1>  
-<br>The website aims to</br>: 
-
+<br>The website aims to</br>
 Promote tutoring services offered  
-
 Allow students to register for online class 
-
 Display subjects, tutors, timetables and pricing  
-
 Provide location map  
-
 Create a professional and trustworthy image  
 
 <h1>Sitemap</h1>:
