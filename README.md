@@ -24,7 +24,7 @@ Key features and functionalities:
 <li>Week-5	Test the website on different devices and browsers Testing completed</li> 
 <li>Week-6	Fix errors, make improvements and prepare documentation Final website ready for submission</li> 
 
-Sitemap:
+<h1>Sitemap</h1>:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a16cd020-ecb9-41f2-b355-247849771773" />
 
  
