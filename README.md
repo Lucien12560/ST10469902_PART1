@@ -57,6 +57,9 @@ Find centre location and contact details
 The goal is to create a modern user friendly and responsive website that promotes the tutoring centres services and makes it easier for the user to navigate and enable potential clients to register and contact the business online  
 This organisation is suitable because it requires and visually appealing website to attract new students and provides essential information to parents and learners.
 
+ <h1>Current website analysis</h1>  
+Bright future Tutoring Centre does not currently have an official website. Instead, the business relies on social media and WhatsApp to communicate with students and parents. While these platforms are useful, they make it difficult to organise information and accept registration  
+
 <h1>ChangeLog</h1>11 August 2026
 
 <h1>References</h1>:
