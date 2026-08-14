@@ -75,6 +75,15 @@ Bright future Tutoring Centre does not currently have an official website. Inste
 
 <h1>ChangeLog</h1>11 August 2026
 
+<h1>The website pages are</h1>
+ <li>>Index.hmtl is the homepage</li> 
+ <li>About-us.hmtl is the About us page</li> 
+ <li>Contact-us.html is the pages where people are able to contact us </li>
+<li>Textbooks.hmtl where we sell textbooks</li>
+<li>Servcies offered.html is the pages showing the services we offer</li>
+<li>SITEMAP is added onto the whole page.</li>
+
+
 <h1>References</h1>:
  HostAfrica. 2025. We hosting services. https://www.hostafrica.co.za/
  Google Domains. 2025. Domain registration. https://domains.google/
@@ -84,10 +93,3 @@ Willem. (2026, April 21). Cost to develop a website in South Africa | 2026-2027 
 Admin. (2026, August 10). Web Design South Africa (2026): Website design company for SMEs and growing businesses. Gridweb Web Design Cape Town, South Africa. https://gridweb.co.za/web-design-south-africa/
 
 
-<h1>The website pages are</h1>
- <li>>Index.hmtl is the homepage</li> 
- <li>About-us.hmtl is the About us page</li> 
- <li>Contact-us.html is the pages where people are able to contact us </li>
-<li>Textbooks.hmtl where we sell textbooks</li>
-<li>Servcies offered.html is the pages showing the services we offer</li>
-<li>SITEMAP is added onto the whole page.</li>
