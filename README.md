@@ -6,7 +6,8 @@
 <li>Lucien Anthony Beru</li>
 <li>Diploma in Information Technology Management</li>
  
-Project overview: Completed Task 1 on Word and On Visual Studio Code 
+<h1>Project Overview includes</h1> 
+Bright future tutoring centre is a small business that provides academic support to high school learners through face to face and online sessions. This business requires a professional website to promote its services, provide information to students and parents and allow users to register for tutoring sessions online. The website will improve the organisations online presence and make communication with clients more efficient. Task 1 is completed.
 
 <h1>Description</h1>:
 
