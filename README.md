@@ -52,10 +52,9 @@ Find centre location and contact details
 The goal is to create a modern user friendly and responsive website that promotes the tutoring centres services and makes it easier for the user to navigate and enable potential clients to register and contact the business online  
 This organisation is suitable because it requires and visually appealing website to attract new students and provides essential information to parents and learners.
 
-<h1>ChangeLog</h1>
-11 August 2026
+<h1>ChangeLog</h1>11 August 2026
 
-References:
+<h1>References</h1>:
  HostAfrica. 2025. We hosting services. https://www.hostafrica.co.za/
  Google Domains. 2025. Domain registration. https://domains.google/
  MDN Web Docs.2025. Learn web development. https://developer.mozilla.org/
