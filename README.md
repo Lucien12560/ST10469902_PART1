@@ -69,91 +69,40 @@ Body text: Aptos
 
 
 <h1>Website design and development</h1> 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website Budget</title>
-
-    <style>
-        table {
-            width: 60%;
-            border-collapse: collapse;
-            margin: 20px auto;
-            font-family: Arial, sans-serif;
-        }
-
-        th, td {
-            border: 1px solid #333;
-            padding: 12px;
-            text-align: left;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-
-        td:last-child,
-        th:last-child {
-            text-align: right;
-        }
-
-        .total {
-            font-weight: bold;
-            background-color: #e6f2ff;
-        }
-    </style>
-</head>
-
-<body>
-
-    <h2 style="text-align: center;">Website Development Budget</h2>
-
-    <table>
-        <tr>
-            <th>Description</th>
-            <th>Cost</th>
-        </tr>
-
-        <tr>
-            <td>Website design and development</td>
-            <td>6,500</td>
-        </tr>
-
-        <tr>
-            <td>Web hosting</td>
-            <td>250</td>
-        </tr>
-
-        <tr>
-            <td>Domain name</td>
-            <td>1,200</td>
-        </tr>
-
-        <tr>
-            <td>Images and graphics</td>
-            <td>500</td>
-        </tr>
-
-        <tr>
-            <td>Website testing</td>
-            <td>600</td>
-        </tr>
-
-        <tr>
-            <td>Maintenance</td>
-            <td>2,000</td>
-        </tr>
-
-        <tr class="total">
-            <td>Total Budget</td>
-            <td>11,050</td>
-        </tr>
-    </table>
-
-</body>
-</html>
+<table border="1">
+    <tr>
+        <th>Description</th>
+        <th>Cost</th>
+    </tr>
+    <tr>
+        <td>Website design and development</td>
+        <td>6,500</td>
+    </tr>
+    <tr>
+        <td>Web hosting</td>
+        <td>250</td>
+    </tr>
+    <tr>
+        <td>Domain name</td>
+        <td>1,200</td>
+    </tr>
+    <tr>
+        <td>Images and graphics</td>
+        <td>500</td>
+    </tr>
+    <tr>
+        <td>Website testing</td>
+        <td>600</td>
+    </tr>
+    <tr>
+        <td>Maintenance</td>
+        <td>2,000</td>
+    </tr>
+    <tr>
+        <th>Total Budget</th>
+        <th>11,050</th>
+    </tr>
+</table>
 
 
 
