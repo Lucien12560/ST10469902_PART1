@@ -69,7 +69,7 @@ Body text: Aptos
 
 
 <h1>Website design and development</h1> 
-<table border="50">
+<table border="1">
     <tr>
         <th>Description</th>
         <th>Cost</th>
@@ -104,16 +104,10 @@ Body text: Aptos
     </tr>
 </table>
 
-
-
-
-
 <h1>Sitemap</h1>:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a16cd020-ecb9-41f2-b355-247849771773" />
 
- 
-
-1. <h2>Purpose of the website</h2> 
+  <h2>Purpose of the website</h2> 
 The website will allow parents and students to: 
 
 Learn about tutoring services offered 
@@ -128,7 +122,7 @@ View class timetable
 
 Find centre location and contact details 
 
-2. <h2>Project Goal</h2>
+ <h2>Project Goal</h2>
 The goal is to create a modern user friendly and responsive website that promotes the tutoring centres services and makes it easier for the user to navigate and enable potential clients to register and contact the business online  
 This organisation is suitable because it requires and visually appealing website to attract new students and provides essential information to parents and learners.
 
