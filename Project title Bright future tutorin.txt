@@ -18,8 +18,12 @@ Week-4	Develop the registration and contact page Website functionality completed
 Week-5	Test the website on different devices and browsers Testing completed 
 Week-6	Fix errors, make improvements and prepare documentation Final website ready for submission 
 
-<h1>Sitemap</h1>:
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a16cd020-ecb9-41f2-b355-247849771773" />
+Sitemap:
+Homepage
+About-us
+Contact-us
+Textbooks
+Services offered
 
 References:
  HostAfrica. 2025. We hosting services. https://www.hostafrica.co.za/
