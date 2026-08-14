@@ -69,7 +69,7 @@ Body text: Aptos
 
 
 <h1>Website design and development</h1> 
-<table border="1">
+<table border="5">
     <tr>
         <th>Description</th>
         <th>Cost</th>
