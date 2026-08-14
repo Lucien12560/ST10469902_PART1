@@ -3,6 +3,7 @@ Project title: Bright future tutoring centre
 Student Information: ST10469902
                      Rosebank international
                      2nd year
+Institution: Rosebank International
  
 Project overview: Completed
 
