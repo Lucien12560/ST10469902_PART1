@@ -25,14 +25,9 @@ Week-5	Test the website on different devices and browsers Testing completed
 Week-6	Fix errors, make improvements and prepare documentation Final website ready for submission 
 
 Sitemap:
-LOGO,
-NAVIGATION,
-BANNER,
-SITEMAP,
-IMAGE1,
-IMAGE2,
-IMAGE3 
-FOOTER 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a16cd020-ecb9-41f2-b355-247849771773" />
+
+ 
 
 1. <h2>Purpose of the website</h2> 
 The website will allow parents and students to: 
