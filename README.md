@@ -18,7 +18,35 @@ Week-4	Develop the registration and contact page Website functionality completed
 Week-5	Test the website on different devices and browsers Testing completed 
 Week-6	Fix errors, make improvements and prepare documentation Final website ready for submission 
 
-Sitemap:LOGO,NAVIGATION,BANNER,SITEMAP,IMAGE1,IMAGE2,IMAGE3 AND FOOTER 
+Sitemap:
+LOGO,
+NAVIGATION,
+BANNER,
+SITEMAP,
+IMAGE1,
+IMAGE2,
+IMAGE3 
+FOOTER 
+
+1. <h2>Purpose of the website</h2> 
+The website will allow parents and students to: 
+
+Learn about tutoring services offered 
+
+View available subjects offered and pricing  
+
+Meet tutors 
+
+Register for tutoring sessions online  
+
+View class timetable  
+
+Find centre location and contact details 
+
+2. <h2>Project Goal</h2>
+The goal is to create a modern user friendly and responsive website that promotes the tutoring centres services and makes it easier for the user to navigate and enable potential clients to register and contact the business online  
+
+This organisation is suitable because it requires and visually appealing website to attract new students and provides essential information to parents and learners  <h2
 
 References:
  HostAfrica. 2025. We hosting services. https://www.hostafrica.co.za/
