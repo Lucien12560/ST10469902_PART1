@@ -7,6 +7,9 @@ Rosebank international
  
 Project overview: Completed Task 1 on Word and On Visual Studio Code 
 
+<h1>Description</h1>h1>: 
+Bright future Tutoring Centre is a small educational business that provides extra lessons and the academic support a student needs for Mathematics, Physical science, English and life science. The centre offers both in-person and online tutoring services, helping students improve their academic performance and prepare for exams as well.  
+
 Website goals and Objectives: The goal of the website is to hopefully generate new customers and widen the reach for international high school kids struggling with academics and help them improve. The objectives are improve as much academics as we can with the help by both the parents and students.
 
 Key features and functionalities: 
