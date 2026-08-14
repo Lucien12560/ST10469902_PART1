@@ -17,12 +17,12 @@ Website goals and Objectives: The goal of the website is to hopefully generate n
 Key features and functionalities: 
 
 <h1>TimeLine and Milestones</h1>:   
-Week-1 	Gather business requirements and conduct research Requirements approved 
-Week-2 	Create website sitemap and wireframes Design approved 
-Week-3	Develop the home, about, and services page Core pages completed 
-Week-4	Develop the registration and contact page Website functionality completed 
-Week-5	Test the website on different devices and browsers Testing completed 
-Week-6	Fix errors, make improvements and prepare documentation Final website ready for submission 
+<li>Week-1 	Gather business requirements and conduct research Requirements approved </li>
+<li>Week-2 	Create website sitemap and wireframes Design approved </li>
+<li>Week-3	Develop the home, about, and services page Core pages completed </li>
+<li>Week-4	Develop the registration and contact page Website functionality completed </li>
+<li>Week-5	Test the website on different devices and browsers Testing completed</li> 
+<li>Week-6	Fix errors, make improvements and prepare documentation Final website ready for submission</li> 
 
 Sitemap:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a16cd020-ecb9-41f2-b355-247849771773" />
