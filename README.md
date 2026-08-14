@@ -59,7 +59,7 @@ Willem. (2026, April 21). Cost to develop a website in South Africa | 2026-2027 
 Admin. (2026, August 10). Web Design South Africa (2026): Website design company for SMEs and growing businesses. Gridweb Web Design Cape Town, South Africa. https://gridweb.co.za/web-design-south-africa/
 
 
-The website pages are
+<h1>The website pages are</h1>
 - Index.hmtl is the homepage 
 - About-us.hmtl is the About us page 
 - Contact-us.html is the pages where people are able to contact us 
