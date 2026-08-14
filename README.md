@@ -58,7 +58,20 @@ The goal is to create a modern user friendly and responsive website that promote
 This organisation is suitable because it requires and visually appealing website to attract new students and provides essential information to parents and learners.
 
  <h1>Current website analysis</h1>  
-Bright future Tutoring Centre does not currently have an official website. Instead, the business relies on social media and WhatsApp to communicate with students and parents. While these platforms are useful, they make it difficult to organise information and accept registration  
+Bright future Tutoring Centre does not currently have an official website. Instead, the business relies on social media and WhatsApp to communicate with students and parents. While these platforms are useful, they make it difficult to organise information and accept registration.
+
+<h2>Propose Website features and Functionality</h2>  
+* Homepage 
+* About us Page  
+* Registration page  
+* Contact page  
+* Subject and services page (Admin, 2026) 
+
+ <h2>Functionality</h2>  
+* Responsive design for desktop, tablet and mobile devices  
+* Easy navigation menu  
+* Online registration form  
+* Contact form with email integration  
 
 <h1>ChangeLog</h1>11 August 2026
 
