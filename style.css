@@ -1,0 +1,1084 @@
+/* General page style */
+body{
+margin:0
+font-family: Arial, sans-serif;
+background-color: lightblue;
+color: #333;
+}
+
+<style>
+
+    /* ===== PAGE ===== */
+
+    body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #f5f9fc;
+        color: #172b4d;
+    }
+
+
+    /* ===== NAVIGATION BAR ===== */
+
+    .navbar {
+        background-color: #12355b;
+        padding: 18px 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
+    }
+
+
+    /* Website name */
+
+    .logo {
+        color: white;
+        font-size: 22px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    .logo span {
+        color: #ffd43b;
+    }
+
+
+    /* Navigation links */
+
+    .nav-links {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .nav-links a {
+        color: white;
+        text-decoration: none;
+        padding: 10px 15px;
+        border-radius: 6px;
+        font-size: 16px;
+        transition: 0.3s;
+    }
+
+
+    /* Mouse hover effect */
+
+    .nav-links a:hover {
+        background-color: #ffd43b;
+        color: #12355b;
+    }
+
+
+    /* ===== MAIN HEADING ===== */
+
+    .main-title {
+        text-align: center;
+        margin: 70px 20px 20px;
+    }
+
+    .main-title h1 {
+        color: #12355b;
+        font-size: 48px;
+        margin-bottom: 15px;
+        font-weight: 800;
+    }
+
+    .main-title p {
+        color: #667085;
+        font-size: 19px;
+        margin: 0;
+    }
+
+
+    /* ===== HERO BUTTON ===== */
+
+    .main-button {
+        display: block;
+        width: fit-content;
+        margin: 35px auto;
+        padding: 15px 30px;
+        background-color: #ffd43b;
+        color: #12355b;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 18px;
+        border-radius: 8px;
+        transition: 0.3s;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.12);
+    }
+
+    .main-button:hover {
+        background-color: #12355b;
+        color: white;
+        transform: translateY(-3px);
+    }
+
+
+    /* ===== MOBILE ===== */
+
+    @media (max-width: 700px) {
+
+        .navbar {
+            flex-direction: column;
+            gap: 15px;
+            padding: 20px;
+        }
+
+        .nav-links {
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .nav-links a {
+            font-size: 14px;
+            padding: 8px 10px;
+        }
+
+        .main-title h1 {
+            font-size: 34px;
+        }
+
+    }
+
+</style>
+
+
+/* Navigation links */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+/* Navigation link when mouse is over it */
+nav a: :hover {
+    color: #ffd700;
+}
+
+/* Main headings */
+h1{
+    color: #003b73;
+    text-align: center;
+}
+h2{
+    color: #0056a6;
+}
+/* Underline headings */
+h1, h2{
+    text-decoration: underline;
+}
+/* content */
+p{
+    line-height: 1.6;
+}
+
+/* Button */
+button{
+    background-color: #ffd700;
+    color: #003b73;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/*Button hover*/
+button: hover{
+    background-color: #003b73;
+    color: white;
+}
+/*links*/
+a{
+    color: #0056a6;
+}
+
+a: hover{
+    color: #d4a900;
+}
+
+/*Content sections*/
+section{
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-left: 6px solid #ffd700;
+    }
+
+    /*Footer*/
+    footer{
+        background-color: #003b73;
+        color: white;
+        text-align: center;
+        padding: 15px;
+    }
+
+   .banner{
+    background-color: #003b73;
+    color: white;
+    text-align: end;
+    padding: 40px 20px;
+    margin: 0;
+    }
+
+    .banner h1 {
+        color: white;
+        margin: 0;
+        font-size: 40px;
+ }
+
+ .banner p {
+    color:#ffd700;
+    font-size: 20px;
+    margin-top: 10px
+ }
+
+ .subjects-page {
+    text-align: center;
+ }
+ .subjects-page ul {
+    list-style-position: Inside;
+    padding: 0;
+ }
+ .subjects-page table{
+    margin-left: auto;
+    margin-right: auto;
+ }
+ .subjects-page table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+ }
+ .subjects-page th,
+ .subjects-page td {
+    border: 2px solid #003b73;
+    padding: 10px;
+ }
+ 
+ .homepage{
+    text-align: center;
+ }
+ .homepage ul {
+    list-style-position: inside;
+    padding:0;
+    margin: 0 auto;
+ }
+ .homepage h1,
+ .homepage h2,
+ .homepage h3 {
+    text-align: center;
+ }
+ .homepage button {
+    display: block;
+    margin: 20px auto;
+ }
+
+ .about-page {
+    text-align: center;
+ }
+
+ .nav-links a {
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+.nav-links a::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: #0f6bff;
+  transition: width 0.3s ease;
+}
+
+.nav-links a:hover::after {
+  width: 100%;
+}
+
+.hero {
+  background: linear-gradient(135deg, #e8f0fe 0%, #ffffff 70%);
+  padding: 3rem 2rem;
+  border-radius: 20px;
+  margin: 1rem;
+}
+
+/* Contact Page Specific Styles */
+.contact-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.contact-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.contact-header h2 {
+  font-size: 2.5rem;
+  color: #0a1a3a;
+  margin-bottom: 0.5rem;
+}
+
+.contact-header p {
+  color: #4c5a77;
+  font-size: 1.1rem;
+}
+
+/* Contact Info Table - Modern Card Style */
+.contact-info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+  background: #f8fbff;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.info-item {
+  text-align: center;
+  padding: 1rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.info-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(11, 31, 68, 0.12);
+}
+
+.info-item i {
+  font-size: 2rem;
+  color: #0b1f44;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.info-item .label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #8a9bb5;
+  font-weight: 600;
+}
+
+.info-item .value {
+  font-weight: 600;
+  color: #0a1a3a;
+  font-size: 0.95rem;
+  margin-top: 0.3rem;
+}
+
+/* Enquiry Form - Modern Card */
+.enquiry-section {
+  background: white;
+  border-radius: 20px;
+  padding: 2.5rem;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.06);
+  border: 1px solid #edf2f9;
+}
+
+.enquiry-section h3 {
+  font-size: 1.8rem;
+  color: #0a1a3a;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.enquiry-section h3 i {
+  color: #0f6bff;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  font-weight: 600;
+  color: #1f2a44;
+  margin-bottom: 0.4rem;
+  font-size: 0.95rem;
+}
+
+.form-group label .required {
+  color: #e74c3c;
+  margin-left: 3px;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+  width: 100%;
+  padding: 12px 16px;
+  border: 2px solid #e8edf5;
+  border-radius: 12px;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  background: #fafcff;
+}
+
+.form-group input:focus,
+.form-group textarea:focus,
+.form-group select:focus {
+  outline: none;
+  border-color: #0f6bff;
+  box-shadow: 0 0 0 4px rgba(15, 107, 255, 0.1);
+  background: white;
+}
+
+.form-group textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+/* Submit Button */
+.submit-btn {
+  background: linear-gradient(135deg, #0b1f44, #1a3a7a);
+  color: white;
+  padding: 14px 40px;
+  border: none;
+  border-radius: 50px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  box-shadow: 0 8px 25px rgba(11, 31, 68, 0.2);
+}
+
+.submit-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 35px rgba(11, 31, 68, 0.3);
+  background: linear-gradient(135deg, #12306b, #1f4a9a);
+}
+
+.submit-btn i {
+  font-size: 1.2rem;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .form-row {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  
+  .contact-info-grid {
+    grid-template-columns: 1fr 1fr;
+    padding: 1rem;
+  }
+  
+  .enquiry-section {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .contact-info-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+body {
+  background: #f5f7fb;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 2rem 1rem;
+}
+
+/* --- Headings --- */
+h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #1a2a4a;
+  text-align: center;
+  margin: 2.5rem 0 1.5rem 0;
+  padding-bottom: 0.8rem;
+  border-bottom: 3px solid #e2e8f0;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1:first-of-type {
+  font-size: 2.6rem;
+  color: #0a1a3a;
+  border-bottom-color: #2c5282;
+}
+
+h1:nth-of-type(2) {
+  border-bottom-color: #4a6fa5;
+}
+
+h1:nth-of-type(3) {
+  border-bottom-color: #8b7355;
+}
+
+/* --- All Paragraphs --- */
+p {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #2d4059;
+  max-width: 750px;
+  margin: 1.2rem auto;
+  padding: 1.2rem 1.8rem;
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #e8edf4;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+/* --- Mission Paragraph --- */
+h1:first-of-type + p {
+  background: #fefcf5;
+  border-left: 5px solid #d4a017;
+  border-radius: 8px;
+}
+
+/* --- History Paragraph --- */
+h1:nth-of-type(2) + p {
+  background: #f5f9ff;
+  border-left: 5px solid #2c5282;
+  border-radius: 8px;
+}
+
+/* --- Bold text --- */
+p strong {
+  color: #1a2a4a;
+  font-weight: 700;
+}
+
+/* --- Team Introduction Paragraph --- */
+p:first-of-type {
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: #1a2a4a;
+  text-align: center;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0.5rem 0 1rem 0 !important;
+  margin: 1rem auto 0.5rem auto !important;
+  border-bottom: 2px solid #e2e8f0;
+  max-width: 450px;
+}
+
+/* --- Team List --- */
+ul {
+  max-width: 650px;
+  margin: 1.5rem auto;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.7rem;
+}
+
+/* --- Individual Team Members --- */
+ul li {
+  background: #ffffff;
+  padding: 0.8rem 1.2rem;
+  border-radius: 6px;
+  border: 1px solid #e2e8f0;
+  font-size: 0.95rem;
+  color: #2d3748;
+  transition: all 0.2s ease;
+}
+
+/* --- Hover Effect --- */
+ul li:hover {
+  background: #f7fafc;
+  border-color: #b0c4de;
+  transform: translateX(3px);
+}
+
+/* --- Color Coding for Roles --- */
+
+/* Owner - Gold */
+ul li:first-child {
+  background: #fffbeb;
+  border-color: #f6c23e;
+}
+
+/* Head Tutors - Blue */
+ul li:nth-child(2),
+ul li:nth-child(3),
+ul li:nth-child(4) {
+  background: #ebf4ff;
+  border-color: #90b4de;
+}
+
+/* Assistants - Green */
+ul li:nth-child(5),
+ul li:nth-child(6),
+ul li:nth-child(7) {
+  background: #f0fff4;
+  border-color: #9ae6b4;
+}
+
+/* --- Team Closing Paragraph --- */
+ul + p {
+  text-align: center;
+  color: #4a5568;
+  font-size: 0.95rem;
+  font-style: italic;
+  padding: 1.5rem 0 0 0 !important;
+  margin: 1.5rem auto 0 auto !important;
+  border-top: 2px solid #e2e8f0;
+  background: transparent !important;
+  border-left: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  max-width: 500px;
+}
+
+/* --- Paragraph Hover --- */
+p:hover {
+  border-color: #cbd5e0;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.8rem;
+  }
+  
+  h1:first-of-type {
+    font-size: 2rem;
+  }
+  
+  p {
+    font-size: 0.98rem;
+    padding: 1rem 1.2rem;
+    margin: 1rem 0.5rem;
+  }
+  
+  ul {
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+    margin: 1rem 0.5rem;
+  }
+  
+  ul li {
+    padding: 0.6rem 1rem;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+  h1:first-of-type {
+    font-size: 1.7rem;
+  }
+  
+  ul {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+  
+  ul li {
+    padding: 0.6rem 0.8rem;
+    font-size: 0.88rem;
+  }
+  
+  p {
+    font-size: 0.92rem;
+    padding: 0.8rem 1rem;
+  }
+}
+
+/* ========================================
+   HOMEPAGE IMAGE HOVER EFFECTS
+   ======================================== */
+
+/* --- 1. Basic Image Hover - Scale & Shadow --- */
+img {
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+img:hover {
+  transform: scale(1.04);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* --- 2. Alternative - Lift Effect --- */
+img:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+}
+
+/* --- 3. Alternative - Glow Border --- */
+img:hover {
+  border: 3px solid #2c5282;
+  box-shadow: 0 0 20px rgba(44, 82, 130, 0.15);
+}
+
+/* --- 4. Alternative - Darken & Brighten --- */
+img:hover {
+  filter: brightness(1.05) contrast(1.05);
+  transform: scale(1.02);
+}
+
+/* --- 5. Alternative - Subtle Zoom --- */
+img:hover {
+  transform: scale(1.08);
+  transition: transform 0.5s ease;
+}
+
+/* --- 6. Container Wrapper for Better Control --- */
+.image-wrapper {
+  overflow: hidden;
+  border-radius: 8px;
+  position: relative;
+}
+
+.image-wrapper img {
+  transition: transform 0.4s ease;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.image-wrapper:hover img {
+  transform: scale(1.08);
+}
+
+/* --- 7. Image with Overlay Text Effect --- */
+.image-container {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.image-container img {
+  transition: transform 0.4s ease;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.image-container:hover img {
+  transform: scale(1.06);
+}
+
+.image-container::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(44, 82, 130, 0);
+  transition: background 0.3s ease;
+  pointer-events: none;
+}
+
+.image-container:hover::after {
+  background: rgba(44, 82, 130, 0.05);
+}
+
+/* --- 8. Grid Image Hover (for subject cards) --- */
+.subject-card {
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease;
+}
+
+.subject-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.subject-card img {
+  transition: transform 0.4s ease;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.subject-card:hover img {
+  transform: scale(1.05);
+}
+
+/* --- 9. For Multiple Images in a Row --- */
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  padding: 1rem;
+}
+
+.image-grid img {
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.image-grid img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+/* --- 10. For Homepage Hero Image --- */
+.hero-image {
+  transition: all 0.4s ease;
+  border-radius: 12px;
+}
+
+.hero-image:hover {
+  transform: scale(1.02);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* --- 11. For Logo Images --- */
+.logo-image {
+  transition: all 0.3s ease;
+}
+
+.logo-image:hover {
+  transform: scale(1.05);
+  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.1));
+}
+
+/* --- 12. For Gallery Images --- */
+.gallery-image {
+  transition: all 0.4s ease;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.gallery-image:hover {
+  transform: scale(1.05) rotate(-1deg);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  z-index: 10;
+}
+
+/* --- 13. Responsive Adjustments --- */
+@media (max-width: 768px) {
+  img:hover {
+    transform: scale(1.02) !important;
+  }
+  
+  .image-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+  
+  .image-grid img {
+    height: 150px;
+  }
+}
+
+@media (max-width: 480px) {
+  .image-grid {
+    grid-template-columns: 1fr;
+    gap: 0.8rem;
+  }
+  
+  .image-grid img {
+    height: 180px;
+  }
+}
+
+.aboutpage {
+    text-align: center;
+}
+
+.aboutpage h1,
+.aboutpage h2,
+.aboutpage h3,
+.aboutpage p {
+    text-align: center;
+}
+
+.aboutpage .content-box {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.team-table{
+  width: 80%;
+  margin: 30px auto;
+  border-collapse: collapse;
+  text-align: centre
+}
+
+.team-table th{
+  background-color: #0f6bff;
+  color: #000000;
+  padding: 15px;
+  border: 2px solid #0066cc;
+}
+
+.team-table td {
+  padding: p2x;
+  border: 2px solid #0066cc;
+}
+
+.team-table tr:nth-child(even) {
+  background-color: #fce4ec;
+}
+
+.team-table tr:nth-child(odd){
+  background-color: #ffffff;
+}
+
+.location {
+  text-align: centre;
+  margin: 30px auto;
+}
+
+.location h2{
+  text-align: centre;
+  margin-bottom: 20px;
+}
+
+.location iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+.location iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+iframe{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.location h2{
+  text-align: center;
+}
+
+h2{
+  text-align: centre;
+}
+
+iframe {
+  display: block;
+  margin: 20px auto;
+}
+
+.contactpage {
+  text-align: center;
+}
+
+.textbookpage {
+  text-align: center;
+}
+
+.banner {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #0066cc;
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #0066cc;
+  text-align: center;
+  padding: 15px;
+  z-index: 1000;
+}
+
+body{
+  padding-bottom: 70px;
+}
+
+#menu-toggle {
+  display: none;
+}
+
+.menu-toggle {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.menu-toggle {
+  display: block;
+  font-size: 28px;
+  cursor: pointer;
+  margin-left: auto;
+}
+
+#menu-toggle {
+  display: none;
+}
+
+.menu-toggle {
+  display: block;
+  font-size: 30px;
+  cursor: pointer;
+  margin-left: auto;
+}
+
+@media screen and (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+    font-size: 30px;
+    cursor: pointer;
+    margin-left: auto;
+}
+
+  .nav-links {
+    display: none;
+  }
+  #menu-toggle:checked + .nav-links {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+  }
+}
