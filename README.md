@@ -144,9 +144,14 @@ Bright future Tutoring Centre does not currently have an official website. Inste
  <li>Contact form with email integration</li>  
 
 <h1>ChangeLog</h1>
-11 August 2026,
-9 septemeber 2026,
-10 september 2026
+<li>11 August 2026,></li>
+<li>9 Septemeber 2026,</li>
+<li>10 September 2026</li>
+<li>11 September 2026</li>
+<li>12 September 2026</li>
+<li>13 September 2026</li>
+<li>14 September 2026</li>
+<li>15 September 2026</li>
 
 <h1>The website pages are</h1>
  <li>>Index.hmtl is the homepage</li> 
