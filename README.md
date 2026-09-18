@@ -163,11 +163,11 @@ Bright future Tutoring Centre does not currently have an official website. Inste
 
 
 <h1>References</h1>:
- HostAfrica. 2025. We hosting services. https://www.hostafrica.co.za/
- Google Domains. 2025. Domain registration. https://domains.google/
- MDN Web Docs.2025. Learn web development. https://developer.mozilla.org/
- Understanding web development project timelines. 2024. Web Development Authority. https://webdevelopmentauthority.com/web-development-project-timeline/
-Willem. (2026, April 21). Cost to develop a website in South Africa | 2026-2027 Pricing Guide. Bunnypants Graphic & Web Design Studio. https://www.bunnypants.co.za/website-development-cost-complete-guide-2026-2027/
-Admin. (2026, August 10). Web Design South Africa (2026): Website design company for SMEs and growing businesses. Gridweb Web Design Cape Town, South Africa. https://gridweb.co.za/web-design-south-africa/
+ <li>HostAfrica. 2025. We hosting services. https://www.hostafrica.co.za/</li>
+ <li>Google Domains. 2025. Domain registration. https://domains.google/</li>
+ <li>MDN Web Docs.2025. Learn web development. https://developer.mozilla.org/</li>
+ <li>Understanding web development project timelines. 2024. Web Development Authority. https://webdevelopmentauthority.com/web-development-project-timeline/</li>
+<li>Willem. (2026, April 21). Cost to develop a website in South Africa | 2026-2027 Pricing Guide. Bunnypants Graphic & Web Design Studio. https://www.bunnypants.co.za/website-development-cost-complete-guide-2026-2027/</li>
+<li>Admin. (2026, August 10). Web Design South Africa (2026): Website design company for SMEs and growing businesses. Gridweb Web Design Cape Town, South Africa. https://gridweb.co.za/web-design-south-africa/</li>
 
 
