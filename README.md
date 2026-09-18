@@ -248,13 +248,71 @@ Version 2.1 – Initial Release
 - Add **profile images** for team members.  
 - Include **timeline graphic** for company history.  
 - Add **animated counters** for pass rate statistics.  
-- Improve **SEO metadata** (keywords, description).  
+- Improve **SEO metadata** (keywords, description).
+
+
+Here’s a **changelog for your Contact Us page**, showing the progression of updates and introducing **Version 2.0** with all the refinements applied:
 
 ---
 
+# 📜 Bright Future Tutoring Centre – Contact Us Page Changelog
 
+### Version 1.0 – Initial Release  
+**Date: 2026-09-10**  
+- Created Contact Us page with navigation bar, banner, sitemap, and footer.  
+- Added contact information (cell number, email address).  
+- Included Font Awesome icons for phone and email.  
+- Used multiple `<body>` tags and inconsistent nesting.  
+- Inline styles used (e.g., `<hr style="border: 2px solid black;">`).  
+- Some links duplicated between navbar and sitemap.  
 
 ---
+
+### Version 2.0 – Structural & Accessibility Improvements  
+**Date: 2026-09-18**  
+
+ **HTML Structure Updates**  
+- Fixed multiple `<body>` tags → now only one `<body>` element.  
+- Removed headings inside `<p>` tags (e.g., `<p><h1>...</h1></p>`).  
+- Ensured only one `<h1>` per page, with subsections using `<h2>` and `<h3>`.  
+- Wrapped main content in `<main>` for semantic clarity.  
+
+ **Accessibility Enhancements**  
+- Improved contact info layout with semantic `<address>` tag for phone/email.  
+- Ensured descriptive link text (no duplicates).  
+- Added `aria-labels` for icons to improve screen reader support.  
+
+ **Responsive Design**  
+- Added `<meta name="viewport" content="width=device-width, initial-scale=1.0">` in `<head>`.  
+- Prepared layout for CSS media queries (mobile-friendly contact grid).  
+
+ **Styling Improvements**  
+- Removed inline styles, moved them into `style.css`.  
+- Updated footer to use semantic `<footer>` tag properly.  
+- Cleaned up sitemap duplication (kept only one consistent navigation).  
+
+ **Content Refinement**  
+- Corrected spelling errors (e.g., “folloiwng” → “following”).  
+- Improved readability of contact section.  
+- Ensured email address is properly formatted (e.g., `futuretutoring@example.com`).  
+
+
+
+### Next Steps (Planned for Version 2.1)  
+- Add **contact form** with name, email, and message fields.  
+- Implement **form validation** with JavaScript.  
+- Add **Google Maps embed** for physical location.  
+- Include **click-to-call** and **mailto** links for phone and email.  
+
+
+
+
+
+
+
+
+
+
 
 
 <h1>The website pages are</h1>
