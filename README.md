@@ -193,7 +193,66 @@ Version 2.1 – Initial Release
 - Add **CSS animations** for banner and buttons.  
 - Implement **sticky navigation bar**.  
 - Optimize images for faster loading.  
-- Add **contact form validation** with JavaScript.  
+- Add **contact form validation** with JavaScript.
+
+
+
+---
+
+# Bright Future Tutoring Centre – About Us Page Changelog
+
+### Version 1.0 – Initial Release  
+**Date: 2026-09-10**  
+- Created About Us page with navigation bar, banner, sitemap, and footer.  
+- Added company vision, mission, history, and team sections.  
+- Included team table with names and positions.  
+- Used multiple `<body>` tags and nested headings inside `<p>` tags.  
+- Inline styles used (e.g., `<hr style="border: 2px solid black;">`).  
+
+---
+
+### Version 2.2 – Structural & Accessibility Improvements  
+**Date: 2026-09-18**  
+
+ **HTML Structure Updates**  
+- Fixed multiple `<body>` tags → now only one `<body>` element.  
+- Removed headings inside `<p>` tags (e.g., `<p><h1>...</h1></p>`).  
+- Ensured only one `<h1>` per page, with subsections using `<h2>` and `<h3>`.  
+- Wrapped main content in `<main>` for semantic clarity.  
+
+ **Accessibility Enhancements**  
+- Improved `alt` text for images (if added later).  
+- Cleaned up navigation links for consistency.  
+- Ensured descriptive link text (no duplicates).  
+
+ **Responsive Design**  
+- Added `<meta name="viewport" content="width=device-width, initial-scale=1.0">` in `<head>`.  
+- Prepared layout for CSS media queries (mobile-friendly navigation).  
+
+**Styling Improvements**  
+- Removed inline styles, moved them into `style.css`.  
+- Updated footer to use semantic `<footer>` tag properly.  
+
+**Content Refinement**  
+- Corrected spelling errors (e.g., “Enlish” → “English”, “makrs” → “marks”).  
+- Improved readability of Vision, Mission, and History sections.  
+- Cleaned up extra closing tags (`</p>` repeated unnecessarily).  
+
+**Team Table Fixes**  
+- Corrected missing `<tr>` around Casey’s entry.  
+- Ensured consistent formatting for all rows.  
+
+---
+
+### Next Steps (Planned for Version 2.1)  
+- Add **profile images** for team members.  
+- Include **timeline graphic** for company history.  
+- Add **animated counters** for pass rate statistics.  
+- Improve **SEO metadata** (keywords, description).  
+
+---
+
+
 
 ---
 
