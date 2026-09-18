@@ -144,13 +144,13 @@ Bright future Tutoring Centre does not currently have an official website. Inste
  <li>Contact form with email integration</li>  
 
 <h1>ChangeLog</h1>
-<li>Here’s a **changelog** for your homepage project, showing the progression of updates and introducing **Version 2.0** with all the refinements I suggested earlier:
+
 
 ---
 
  Bright Future Tutoring Centre – Changelog
 
-Version 1.0 – Initial Release  
+Version 2.1 – Initial Release  
 **Date: 2026-09-10**  
 - Created homepage with navigation bar, banner, sitemap, and footer.  
 - Added subject images (English, Life Science, Mathematics, Physical Science).  
@@ -196,8 +196,6 @@ Version 1.0 – Initial Release
 - Add **contact form validation** with JavaScript.  
 
 ---
-
-Would you like me to **rewrite your full HTML file in Version 2.0 format** (with all these changes applied), so you have a clean, modernized version ready to use?</li>
 
 
 <h1>The website pages are</h1>
