@@ -150,7 +150,7 @@ Bright future Tutoring Centre does not currently have an official website. Inste
 
  Bright Future Tutoring Centre – Changelog
 
-Version 2.1 – Initial Release  
+Version 2.0 – Initial Release  
 **Date: 2026-09-10**  
 - Created homepage with navigation bar, banner, sitemap, and footer.  
 - Added subject images (English, Life Science, Mathematics, Physical Science).  
@@ -201,7 +201,7 @@ Version 2.1 – Initial Release
 
 # Bright Future Tutoring Centre – About Us Page Changelog
 
-### Version 1.0 – Initial Release  
+### Version 2.0 – Initial Release  
 **Date: 2026-09-10**  
 - Created About Us page with navigation bar, banner, sitemap, and footer.  
 - Added company vision, mission, history, and team sections.  
@@ -211,7 +211,7 @@ Version 2.1 – Initial Release
 
 ---
 
-### Version 2.2 – Structural & Accessibility Improvements  
+### Version 2.1 – Structural & Accessibility Improvements  
 **Date: 2026-09-18**  
 
  **HTML Structure Updates**  
@@ -251,13 +251,13 @@ Version 2.1 – Initial Release
 - Improve **SEO metadata** (keywords, description).
 
 
-Here’s a **changelog for your Contact Us page**, showing the progression of updates and introducing **Version 2.0** with all the refinements applied:
+
 
 ---
 
 # 📜 Bright Future Tutoring Centre – Contact Us Page Changelog
 
-### Version 2.3 – Initial Release  
+### Version 2.2 – Initial Release  
 **Date: 2026-09-10**  
 - Created Contact Us page with navigation bar, banner, sitemap, and footer.  
 - Added contact information (cell number, email address).  
@@ -268,7 +268,7 @@ Here’s a **changelog for your Contact Us page**, showing the progression of up
 
 ---
 
-### Version 2.4 – Structural & Accessibility Improvements  
+### Version 2.3 – Structural & Accessibility Improvements  
 **Date: 2026-09-18**  
 
  **HTML Structure Updates**  
@@ -311,7 +311,7 @@ Here’s a **changelog for your Contact Us page**, showing the progression of up
 
 # 📜 Bright Future Tutoring Centre – Subjects Offered Page Changelog
 
-### Version 1.0 – Initial Release  
+### Version 2.4 – Initial Release  
 **Date: 2026-09-10**  
 - Created Subjects Offered page with navigation bar, banner, sitemap, and footer.  
 - Listed subjects offered: Mathematics, English, Life Science, Physical Science.  
