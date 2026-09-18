@@ -255,7 +255,7 @@ Version 2.0 – Initial Release
 
 ---
 
-# 📜 Bright Future Tutoring Centre – Contact Us Page Changelog
+#  Bright Future Tutoring Centre – Contact Us Page Changelog
 
 ### Version 2.2 – Initial Release  
 **Date: 2026-09-10**  
@@ -305,11 +305,11 @@ Version 2.0 – Initial Release
 - Include **click-to-call** and **mailto** links for phone and email.
 
 
- Here’s a **changelog for your Subjects Offered page**, showing the evolution of updates and introducing **Version 2.0** with all the refinements applied:
+
 
 ---
 
-# 📜 Bright Future Tutoring Centre – Subjects Offered Page Changelog
+#  Bright Future Tutoring Centre – Subjects Offered Page Changelog
 
 ### Version 2.4 – Initial Release  
 **Date: 2026-09-10**  
@@ -422,17 +422,75 @@ Add student reviews/testimonials for textbooks.
 
 
 
+---
 
+#  Bright Future Tutoring Centre – General Stylesheet Changelog
 
+### Version 1.0 – Initial Release  
+**Date: 2026-09-10**  
+- Created base CSS for all pages.  
+- Defined general body styles (font, background, text color).  
+- Added navigation bar styling with hover effects.  
+- Styled headings (`h1`, `h2`) with underline and color.  
+- Basic button styles with hover effect.  
+- Footer styling with background color and centered text.  
+- Added banner section styling.  
+- Introduced page-specific classes (`homepage`, `subjects-page`, `aboutpage`, `contactpage`, `textbookpage`).  
+- Basic table styling for subjects and team sections.  
+- Shopping cart styling for textbooks page.  
 
+---
 
+### Version 2.7 – Structural & Visual Enhancements  
+**Date: 2026-09-18**  
 
+ **Global Improvements**  
+- Unified body styling with modern fonts (`Segoe UI`, Verdana).  
+- Added padding for better spacing.  
+- Improved paragraph readability with background cards, borders, and shadows.  
 
+ **Navigation Bar**  
+- Enhanced navbar with flexbox alignment and box-shadow.  
+- Added animated underline hover effect (`::after`).  
+- Improved mobile responsiveness with collapsible menu toggle.  
 
+ **Headings & Content**  
+- Refined heading styles with border-bottom accents.  
+- Applied color coding for different sections (Mission, History, Team).  
+- Improved paragraph hover effects for subtle interactivity.  
 
+ **Homepage & Banner**  
+- Added hero section with gradient background.  
+- Introduced image hover effects (scale, shadow, glow, zoom).  
+- Responsive adjustments for images and grids.  
 
+ **Subjects Page**  
+- Centered tables with consistent border styling.  
+- Improved table readability with alternating row colors.  
 
+ **About Page**  
+- Styled team table with alternating row colors and role-based highlights (Owner = gold, Head Tutors = blue, Assistants = green).  
+- Improved team introduction and closing paragraph formatting.  
 
+ **Contact Page**  
+- Modern card-style contact info grid with hover animations.  
+- Styled enquiry form with focus effects and responsive layout.  
+- Gradient submit button with hover lift effect.  
+
+ **Textbooks Page**  
+- Flexbox layout for textbook list.  
+- Styled shopping cart with borders, shadows, and responsive design.  
+- Improved button hover states for consistency.  
+
+---
+
+### Next Steps (Planned for Version 2.1)  
+- Add **dark mode toggle** for accessibility.  
+- Introduce **CSS variables** for consistent color theming.  
+- Implement **animations** for banner text and buttons.  
+- Add **grid-based layout system** for better responsiveness.  
+
+---
 
 <h1>The website pages are</h1>
  <li>>Index.hmtl is the homepage</li> 
