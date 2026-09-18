@@ -354,11 +354,71 @@ Version 2.0 – Initial Release
 
 
 
-### Next Steps (Planned for Version 2.1)  
+### Next Steps (Planned for Version 2.0)  
 - Add **icons** for each subject (Math, Science, English, Life Science).  
 - Include **interactive pricing calculator** (e.g., select subject + hours = total cost).  
 - Add **student testimonials** section.  
-- Implement **accordion-style layout** for Online vs In-Person sessions.  
+- Implement **accordion-style layout** for Online vs In-Person sessions.
+
+  Version 2.6 – Structural & Accessibility Improvements
+Date: 2026-09-18
+
+ HTML Structure Updates
+
+Ensured only one <body> element (removed duplicates).
+
+Used <main> to wrap central content for semantic clarity.
+
+Limited to one <h1> per page, with subsections using <h2> and <h3>.
+
+ Accessibility Enhancements
+
+Improved alt text for textbook images (e.g., "Mathematics textbook cover" instead of "Mathematics .png").
+
+Added aria-labels for shopping cart buttons to improve screen reader support.
+
+Ensured descriptive link text (no duplicates).
+
+ Responsive Design
+
+Added <meta name="viewport" content="width=device-width, initial-scale=1.0"> in <head>.
+
+Prepared layout for CSS media queries (mobile-friendly textbook grid and shopping cart).
+
+ Styling Improvements
+
+Removed inline styles, moved them into style.css.
+
+Updated footer to use semantic <footer> tag properly.
+
+Cleaned up navigation duplication (kept only one consistent navigation).
+
+ JavaScript Refinements
+
+Improved cart display with cleaner formatting.
+
+Added quantity tracking for multiple items.
+
+Ensured checkout alert is user-friendly.
+
+ Content Refinement
+
+Corrected spelling errors (e.g., “Matser” → “Master”).
+
+Improved readability of textbook description section.
+
+Clarified second-hand textbook policy.
+
+Next Steps (Planned for Version 2.1)
+Add search/filter functionality for textbooks.
+
+Implement persistent cart storage (localStorage).
+
+Add discounts/promotions system.
+
+Include checkout form for delivery details.
+
+Add student reviews/testimonials for textbooks.
 
 
 
