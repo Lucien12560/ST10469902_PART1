@@ -257,7 +257,7 @@ Here’s a **changelog for your Contact Us page**, showing the progression of up
 
 # 📜 Bright Future Tutoring Centre – Contact Us Page Changelog
 
-### Version 1.0 – Initial Release  
+### Version 2.3 – Initial Release  
 **Date: 2026-09-10**  
 - Created Contact Us page with navigation bar, banner, sitemap, and footer.  
 - Added contact information (cell number, email address).  
@@ -268,7 +268,7 @@ Here’s a **changelog for your Contact Us page**, showing the progression of up
 
 ---
 
-### Version 2.0 – Structural & Accessibility Improvements  
+### Version 2.4 – Structural & Accessibility Improvements  
 **Date: 2026-09-18**  
 
  **HTML Structure Updates**  
@@ -302,7 +302,66 @@ Here’s a **changelog for your Contact Us page**, showing the progression of up
 - Add **contact form** with name, email, and message fields.  
 - Implement **form validation** with JavaScript.  
 - Add **Google Maps embed** for physical location.  
-- Include **click-to-call** and **mailto** links for phone and email.  
+- Include **click-to-call** and **mailto** links for phone and email.
+
+
+ Here’s a **changelog for your Subjects Offered page**, showing the evolution of updates and introducing **Version 2.0** with all the refinements applied:
+
+---
+
+# 📜 Bright Future Tutoring Centre – Subjects Offered Page Changelog
+
+### Version 1.0 – Initial Release  
+**Date: 2026-09-10**  
+- Created Subjects Offered page with navigation bar, banner, sitemap, and footer.  
+- Listed subjects offered: Mathematics, English, Life Science, Physical Science.  
+- Added pricing table with hourly rates in Rands.  
+- Included sections for Online Sessions and In-Person Sessions with descriptions.  
+- Added images for online and in-person banners.  
+- Used multiple `<body>` tags and inconsistent nesting.  
+- Inline styles used (e.g., `<hr style="border: 2px solid black;">`).  
+- Some links duplicated between navbar and sitemap.  
+
+---
+
+### Version 2.5 – Structural & Accessibility Improvements  
+**Date: 2026-09-18**  
+
+**HTML Structure Updates**  
+- Fixed multiple `<body>` tags → now only one `<body>` element.  
+- Removed headings inside `<p>` tags (e.g., `<p><h1>...</h1></p>`).  
+- Ensured only one `<h1>` per page, with subsections using `<h2>` and `<h3>`.  
+- Wrapped main content in `<main>` for semantic clarity.  
+
+ **Accessibility Enhancements**  
+- Improved `alt` text for images (e.g., `"Students in online tutoring session"` instead of `"online session.png"`).  
+- Cleaned up navigation links for consistency.  
+- Ensured descriptive link text (no duplicates).  
+
+ **Responsive Design**  
+- Added `<meta name="viewport" content="width=device-width, initial-scale=1.0">` in `<head>`.  
+- Prepared layout for CSS media queries (mobile-friendly pricing table and banners).  
+
+ **Styling Improvements**  
+- Removed inline styles, moved them into `style.css`.  
+- Updated footer to use semantic `<footer>` tag properly.  
+- Cleaned up sitemap duplication (kept only one consistent navigation).  
+
+ **Content Refinement**  
+- Corrected spelling errors (e.g., “Physcial” → “Physical”, “Matser” → “Master”, “Mulitple” → “Multiple”).  
+- Improved readability of Online and In-Person session descriptions.  
+- Reformatted pricing table for clarity.  
+
+
+
+### Next Steps (Planned for Version 2.1)  
+- Add **icons** for each subject (Math, Science, English, Life Science).  
+- Include **interactive pricing calculator** (e.g., select subject + hours = total cost).  
+- Add **student testimonials** section.  
+- Implement **accordion-style layout** for Online vs In-Person sessions.  
+
+
+
 
 
 
