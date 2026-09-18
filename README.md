@@ -144,14 +144,61 @@ Bright future Tutoring Centre does not currently have an official website. Inste
  <li>Contact form with email integration</li>  
 
 <h1>ChangeLog</h1>
-<li>11 August 2026</li>
-<li>9 Septemeber 2026</li>
-<li>10 September 2026</li>
-<li>11 September 2026</li>
-<li>12 September 2026</li>
-<li>13 September 2026</li>
-<li>14 September 2026</li>
-<li>15 September 2026</li>
+<li>Here’s a **changelog** for your homepage project, showing the progression of updates and introducing **Version 2.0** with all the refinements I suggested earlier:
+
+---
+
+ Bright Future Tutoring Centre – Changelog
+
+Version 1.0 – Initial Release  
+**Date: 2026-09-10**  
+- Created homepage with navigation bar, banner, sitemap, and footer.  
+- Added subject images (English, Life Science, Mathematics, Physical Science).  
+- Included social media links (Facebook, Instagram, Twitter, YouTube).  
+- Basic structure with multiple `<h1>` headings.  
+- Inline styles used (e.g., `<hr style="border: 2px solid black;">`).  
+
+---
+
+### Version 2.0 – Structural & Accessibility Improvements  
+**Date: 2026-09-18**  
+
+ **HTML Structure Updates**  
+- Added `<main>` tag to wrap central content.  
+- Reduced multiple `<h1>` tags to a single main heading, replaced others with `<h2>` and `<h3>`.  
+- Moved sitemap into `<footer>` for consistency.  
+
+ **Accessibility Enhancements**  
+- Improved `alt` text for images (e.g., `"Tutoring Centre classroom interior"` instead of `"Inside building"`).  
+- Ensured link text is descriptive and avoids repetition.  
+
+ **Responsive Design**  
+- Added `<meta name="viewport" content="width=device-width, initial-scale=1.0">` for mobile scaling.  
+- Prepared layout for CSS media queries (mobile-friendly navigation).  
+
+ **Styling Improvements**  
+- Removed inline styles, moved them into `style.css`.  
+- Updated "DONATE TO THE CAUSE" button to use `<button><span>Donate to the Cause</span></button>` instead of wrapping `<h2>`.  
+
+ **Navigation & Sitemap**  
+- Consolidated navigation structure to avoid duplication.  
+- Sitemap now appears in footer for clarity.  
+
+ **Social Media Icons**  
+- Confirmed Font Awesome library inclusion in `<head>` for proper rendering.  
+
+---
+
+### Next Steps (Planned for Version 2.1)  
+- Add **CSS animations** for banner and buttons.  
+- Implement **sticky navigation bar**.  
+- Optimize images for faster loading.  
+- Add **contact form validation** with JavaScript.  
+
+---
+
+Would you like me to **rewrite your full HTML file in Version 2.0 format** (with all these changes applied), so you have a clean, modernized version ready to use?</li>
+
 
 <h1>The website pages are</h1>
  <li>>Index.hmtl is the homepage</li> 
